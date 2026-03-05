@@ -44,8 +44,13 @@ Components Used:-
 
 **5. Circuit Diagram**
 
-![Circuit Diagram](images/circuit_diagram.png)
+<img width="379" height="325" alt="image" src="https://github.com/user-attachments/assets/b37ef5ad-d115-4511-bd85-c9339a2181c2" />
 
+Circuit Diagram for generating a Pulse Amplitude Modulated Signal.
+
+<img width="806" height="408" alt="image" src="https://github.com/user-attachments/assets/a0e4aa9e-5dcd-48b7-91b8-f4658e471060" />
+
+Circuit Diagram to generate the corresponding demodulated PAM signal.
 
 **6. Experimental Waveforms**
 
