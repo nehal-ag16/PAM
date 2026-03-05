@@ -55,7 +55,7 @@ Circuit Diagram to generate the corresponding demodulated PAM signal.
 **6. Experimental Waveforms**
 
 <img width="852" height="423" alt="image" src="https://github.com/user-attachments/assets/0a03e196-e7dc-46dc-b33a-0e22c10976d2" />
-Input and Ouput Waveforms.
+
 
 
 **7. Observations**
