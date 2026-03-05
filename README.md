@@ -54,12 +54,9 @@ Circuit Diagram to generate the corresponding demodulated PAM signal.
 
 **6. Experimental Waveforms**
 
-Input Signal
-![Input Signal](images/input_signal.png)
-PAM Output
-![PAM Signal](images/pam_signal.png)
-Demodulated Signal
-![Demodulated Signal](images/demodulated_signal.png)
+<img width="852" height="423" alt="image" src="https://github.com/user-attachments/assets/0a03e196-e7dc-46dc-b33a-0e22c10976d2" />
+Input and Ouput Waveforms.
+
 
 **7. Observations**
 
@@ -68,5 +65,7 @@ The envelope of the PAM waveform follows the modulating signal.
 A low pass filter reconstructs the original signal during demodulation.
 
 **Author**
+
 **~Nehal Agarwal**
+
 **~B.Tech Electronics and Communication Engineering**
